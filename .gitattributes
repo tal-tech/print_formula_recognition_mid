@@ -1,7 +1,0 @@
-3rdParty filter=lfs diff=lfs merge=lfs -text
-accurate_formula_high.cpp filter=lfs diff=lfs merge=lfs -text
-CMakeLists.txt filter=lfs diff=lfs merge=lfs -text
-formula filter=lfs diff=lfs merge=lfs -text
-image.png filter=lfs diff=lfs merge=lfs -text
-json filter=lfs diff=lfs merge=lfs -text
-service_name filter=lfs diff=lfs merge=lfs -text
