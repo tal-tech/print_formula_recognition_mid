@@ -1,0 +1,76 @@
+/root/xiaoya/pipline/data/merge_4000/20200103141104_31d48407199442e592651f4b4b0d6ab9_OCR_HAIMA_TextMixFormula_0.jpg \frac{h_{1}-h_{0}}{h_{2}-h_{0}}
+/root/xiaoya/pipline/data/merge_4000/D0001152.jpg \sqrt{2}R
+/root/xiaoya/pipline/data/merge_4000/D0003112.jpg e^{x}+e^{-x}=2(1+ \frac{1}{2!}x^{2}+ \cdots + \frac{1}{(2m)!}x^{2m})
+/root/xiaoya/pipline/data/merge_4000/D0001480.jpg =8 \sqrt{3}\int _{0}^{1}dx \int _{0}^{1-x}xy(1-x-y)dy
+/root/xiaoya/pipline/data/merge_4000/D0001937.jpg p(1-p)= \frac{1}{4}
+/root/xiaoya/pipline/data/merge_4000/20200102144246_d6726287c0a0461cb352d866556ad6f4_OCR_HAIMA_TextMixFormula_0.jpg \frac{()}{8}+ \frac{()}{8}= \frac{()}{()}
+/root/xiaoya/pipline/data/merge_4000/20200103120234_07504bff560b474d894ec80c19dfa585_OCR_HAIMA_TextMixFormula_21.jpg )\frac{\sqrt{81}}{\sqrt{3}};
+/root/xiaoya/pipline/data/merge_4000/D0001834.jpg y= \frac{1}{4}x- \frac{5}{4}
+/root/xiaoya/pipline/data/merge_4000/20200102105342_4067eaa699a949c5802fdb7e59c81a6e_OCR_HAIMA_TextMixFormula_12.jpg y_{1}= \frac{4k_{1}}{1+4k_{1}^{2}}
+/root/xiaoya/pipline/data/merge_4000/20200102105355_7bf292a7a658453690809777076bcb57_OCR_HAIMA_TextMixFormula_4.jpg \frac{x^{2}}{4}+ \frac{y^{2}}{3}=1
+/root/xiaoya/pipline/data/merge_4000/20200103104051_0be19684746143468af82674a0e72bba_OCR_HAIMA_TextMixFormula_0.jpg \frac{U_{1}}{U_{2}}= \frac{IR_{1}}{IR_{2}}=R1R2= \frac{3}{2}
+/root/xiaoya/pipline/data/merge_4000/20200102094816_85d02151383342b2b62b2e676c79a615_OCR_HAIMA_TextMixFormula_4.jpg \frac{a-108}{3}=1.645
+/root/xiaoya/pipline/data/merge_4000/20200103173811_6e418fa158504e43a808fd0b2a637001_OCR_HAIMA_TextMixFormula_3.jpg \frac{AB}{BD}= \frac{O_{1}B}{BC_{1}}
+/root/xiaoya/pipline/data/merge_4000/20200101202522_2866b48e7d8e4e38849990ab16d6e26f_OCR_HAIMA_TextMixFormula_6.jpg \sum_{i=1}^{n}(x_{i}- \overline{x})^{2}
+/root/xiaoya/pipline/data/merge_4000/D0002739.jpg \dot{z}_{3}
+/root/xiaoya/pipline/data/merge_4000/D0002921.jpg \frac{5}{2}
+/root/xiaoya/pipline/data/merge_4000/D0000084.jpg d \approx \frac{|s \times \overline{M}_{0}\dot{P}|}{|s|}.
+/root/xiaoya/pipline/data/merge_4000/D0001573.jpg | \overrightarrow{AC}|= \sqrt{(2-4)^{2}+(4-1)^{2}+(3-9)^{2}}=7,
+/root/xiaoya/pipline/data/merge_4000/D0001642.jpg S_{n}= \frac{x_{2}-x_{1}}{x_{1}}+ \frac{x_{3}-x_{2}}{x_{1}}+ \cdots + \frac{x_{n+1}-x_{n}}{x_{1}}= \frac{x_{n+1}-x_{1}}{x_{1}},
+/root/xiaoya/pipline/data/merge_4000/20200102144234_67117a98da1a4b848f86ae6996390d2b_OCR_HAIMA_TextMixFormula_0.jpg \frac{3}{4}- \frac{3}{4}=
+/root/xiaoya/pipline/data/merge_4000/D0001817.jpg f(x)= \frac{2}{x}+x \ln x
+/root/xiaoya/pipline/data/merge_4000/20200103112620_301779c7cb2c4ad9aa7b28529cab2e1e_OCR_HAIMA_TextMixFormula_22.jpg \frac{2}{5}+ \frac{3}{10}=
+/root/xiaoya/pipline/data/merge_4000/D0000804.jpg \sum_{n=1}^{\infty}\frac{(-1)^{n}}{1-4n^{2}}= \frac{1}{2}\left[ f(1)-1 \right] = \frac{1}{2}(\frac{\pi}{2}-1).
+/root/xiaoya/pipline/data/merge_4000/D0000936.jpg (\frac{7}{12}+ \frac{3}{8}- \frac{1}{9})\times 72
+/root/xiaoya/pipline/data/merge_4000/20200102201132_b96fa9167a1041cbb6ef3ebcc86ed4f5_OCR_HAIMA_TextMixFormula_1.jpg I= \frac{6V}{9 \Omega}= \frac{2}{3}
+/root/xiaoya/pipline/data/merge_4000/D0000302.jpg \frac{1}{\lambda}
+/root/xiaoya/pipline/data/merge_4000/D0002270.jpg \dot{V}_{3}\leq -CV_{3}+ \frac{1}{2l}D^{2}
+/root/xiaoya/pipline/data/merge_4000/20200101212514_f387f0dce80e459d8ae6b74d0d9d9492_OCR_HAIMA_TextMixFormula_25.jpg 16. \frac{(\lambda +9)}{(2 \lambda)}
+/root/xiaoya/pipline/data/merge_4000/20200102135242_4c8a521b1cdc45d99da1eb122d675959_OCR_HAIMA_TextMixFormula_5.jpg M(2 \sqrt{2}, \frac{\pi}{4})
+/root/xiaoya/pipline/data/merge_4000/20200101173641_e12f7f9266dd4b489535b5ad06549fd8_OCR_HAIMA_TextMixFormula_0.jpg S_{n}^{2}= \frac{1}{n}\sum _{i=1}^{n}(X_{i}- \overline{X})^{2},
+/root/xiaoya/pipline/data/merge_4000/D0001423.jpg \sinA= \cos B= \frac{1}{2}
+/root/xiaoya/pipline/data/merge_4000/20200102145124_dce4ca13c55e45baa64d7dae60479d8a_OCR_HAIMA_TextMixFormula_14.jpg (2k- \frac{1}{2},2k+ \frac{1}{2}),k\in
+/root/xiaoya/pipline/data/merge_4000/20200103162620_4e60cc17f6b649768cbb387a9cb3abeb_OCR_HAIMA_TextMixFormula_1.jpg \frac{100}{x}= \frac{44}{2.2g}
+/root/xiaoya/pipline/data/merge_4000/D0001533.jpg \gamma= \left[ \frac{ds}{dS}-1 \right] n
+/root/xiaoya/pipline/data/merge_4000/D0001143.jpg \frac{x^{2}}{9}+y^{2}+z^{2}=1
+/root/xiaoya/pipline/data/merge_4000/D0000666.jpg V= \frac{3}{2xyz}
+/root/xiaoya/pipline/data/merge_4000/D0001318.jpg _{x}=u_{0}\frac{\sqrt{2}m_{1}K_{1}K_{2}\sqrt{F_{0}}}{x}
+/root/xiaoya/pipline/data/merge_4000/20200103120411_6f5acd3aaa324bbab2b0197144858ce0_OCR_HAIMA_TextMixFormula_4.jpg \frac{3}{\sqrt{2}}- \sqrt{\frac{1}{2}}
+/root/xiaoya/pipline/data/merge_4000/20200103120220_ead4aee4003a4da7ab7cfd81956ff8a4_OCR_HAIMA_TextMixFormula_5.jpg \sqrt{\frac{16}{25}}= \frac{4}{5}
+/root/xiaoya/pipline/data/merge_4000/20200103170850_16178644b9d14c15b69892752f9c1600_OCR_HAIMA_TextMixFormula_4.jpg a+b+3=ab \leq(\frac{a+b}{2})^{2}
+/root/xiaoya/pipline/data/merge_4000/D0000704.jpg \frac{1}{5}=125。
+/root/xiaoya/pipline/data/merge_4000/20200103095730_7dc57da33c3a4a13b129a5e3c44f2744_OCR_HAIMA_TextMixFormula_8.jpg \overrightarrow{n_{1}}=(x,y,z)。
+/root/xiaoya/pipline/data/merge_4000/D0000890.jpg S(\frac{1}{2})= \sum _{n=2}^{\infty}\frac{1}{(n^{2}-1)2^{n}}= \frac{5}{8}- \frac{3}{4}\ln 2
+/root/xiaoya/pipline/data/merge_4000/D0002875.jpg = \dot{f}(\omega)- \dot{\alpha}_{3}= \frac{\partial f(\omega)}{\partial \omega}\dot{\omega}- \dot{\alpha}_{3}=U- \dot{\alpha}_{3}, \alpha _{3}
+/root/xiaoya/pipline/data/merge_4000/20200102114312_8d01416f60ba4728a968b9b280c187fc_OCR_HAIMA_TextMixFormula_0.jpg f(x)=2^{x}- \frac{3}{x}-a
+/root/xiaoya/pipline/data/merge_4000/20200102204125_5f9632d544ee493d8c114d891a9eca32_OCR_HAIMA_TextMixFormula_3.jpg \frac{h}{v_{y}}=2 \frac{s}{v_{0}}
+/root/xiaoya/pipline/data/merge_4000/20200101201811_a249d34893a7452c878d489df9f8be50_OCR_HAIMA_TextMixFormula_2.jpg S_{n}= \sum _{i=1}^{n}X
+/root/xiaoya/pipline/data/merge_4000/20200103112144_5d7b707a1b80465b82574b3d6d03a12c_OCR_HAIMA_TextMixFormula_8.jpg \frac{1}{2})+(-1)^{0}.
+/root/xiaoya/pipline/data/merge_4000/20200102164817_526ea58d5f874524a1bb68bbf28871b0_OCR_HAIMA_TextMixFormula_3.jpg \frac{1}{8}+ \frac{2}{3}+ \frac{5}{6}
+/root/xiaoya/pipline/data/merge_4000/D0001999.jpg y=(1+ \sqrt{2})x- \frac{1+ \sqrt{2}}{2}.
+/root/xiaoya/pipline/data/merge_4000/20200102204125_142fbea154424c6585cf78bb1a1663ff_OCR_HAIMA_TextMixFormula_1.jpg t= \frac{v_{y}}{g}= \frac{\sqrt{v_{1}^{2}-v_{0}^{2}}}{g}= \sqrt{\frac{2h}{g}},
+/root/xiaoya/pipline/data/merge_4000/20200101204052_8002fcf41205425c8670275a2540872a_OCR_HAIMA_TextMixFormula_1.jpg P(x_{1}=1)= \frac{\theta}{2}.
+/root/xiaoya/pipline/data/merge_4000/20200103141351_c5a2966bf46e4c82b4eb609febfe59fa_OCR_HAIMA_TextMixFormula_8.jpg \frac{5}{14}+ \frac{5}{14}= \frac{5}{()}
+/root/xiaoya/pipline/data/merge_4000/20200102235729_47c4060e34d048a197bd3bceddba6da7_OCR_HAIMA_TextMixFormula_0.jpg \frac{E_{g}}{E_{c}};
+/root/xiaoya/pipline/data/merge_4000/20200103112420_0d67a7162daf43b9b9b3b1db3fabb83a_OCR_HAIMA_TextMixFormula_1.jpg \frac{x^{3}y^{2}}{x^{2}y^{3}}= \frac{x}{y}
+/root/xiaoya/pipline/data/merge_4000/D0003007.jpg - \frac{x}{4y}=- \frac{2}{3}
+/root/xiaoya/pipline/data/merge_4000/20200103161547_92beeca6fb6e400793c523d8b9ca9b28_OCR_HAIMA_TextMixFormula_0.jpg (48 \times 2 \div 4)\div(1- \frac{5}{7})=24 \div \frac{2}{7}=84
+/root/xiaoya/pipline/data/merge_4000/D0001217.jpg = \int _{0}^{2}\frac{d(2+x^{2})}{2+x^{2}}= \ln(2+x^{2})|2= \ln 6- \ln 2= \ln 3.
+/root/xiaoya/pipline/data/merge_4000/D0000710.jpg \frac{\pi}{2}
+/root/xiaoya/pipline/data/merge_4000/D0002226.jpg 0.05= \frac{5}{100}= \frac{1}{20}
+/root/xiaoya/pipline/data/merge_4000/20200102121205_4b81905220cf46f3bb1174edce801075_OCR_HAIMA_TextMixFormula_2.jpg =0.01cm/g \times m+12cm
+/root/xiaoya/pipline/data/merge_4000/20200102152425_fe4b7c2db0d341b4bc23cf9a0c878a78_OCR_HAIMA_TextMixFormula_1.jpg a_{6}=3^{2}=(\sqrt{a_{2}}+ \sqrt{a_{4}})^{2}
+/root/xiaoya/pipline/data/merge_4000/20200101212630_e0b7667e9a61427db7ff819e79c2ef38_OCR_HAIMA_TextMixFormula_7.jpg \frac{2k^{2}+m}{2m^{2}(k^{2}+1)}=t
+/root/xiaoya/pipline/data/merge_4000/20200103170410_03918da432d049c6becad087b9aba7d2_OCR_HAIMA_TextMixFormula_2.jpg \frac{2}{3}(1- \frac{1}{2^{n}})
+/root/xiaoya/pipline/data/merge_4000/D0002264.jpg y= \frac{12}{x}
+/root/xiaoya/pipline/data/merge_4000/20200103120423_08611026a09b402694d92d3633bce27c_OCR_HAIMA_TextMixFormula_1.jpg : \frac{1}{x-y}\div(\frac{1}{y}- \frac{1}{x})
+/root/xiaoya/pipline/data/merge_4000/D0002867.jpg \overrightarrow{D_{3}A}=-(\overrightarrow{AB}+ \overrightarrow{BD_{3}})=- \frac{3}{5}a-c.
+/root/xiaoya/pipline/data/merge_4000/D0001829.jpg f(x)< \frac{1}{2}x^{2}
+/root/xiaoya/pipline/data/merge_4000/20200102021342_1a610c5248054b80b3dd3ac9936f10cc_OCR_HAIMA_TextMixFormula_0.jpg c^{2}=b^{2}+ \sqrt{2}bc
+/root/xiaoya/pipline/data/merge_4000/20200102144246_844169d2bb7648f284ca7a075b8eeb02_OCR_HAIMA_TextMixFormula_2.jpg \frac{7}{10}- \frac{5}{10}
+/root/xiaoya/pipline/data/merge_4000/D0000944.jpg \sigma_{n+1}= \sigma _{n+1}^{trial}
+/root/xiaoya/pipline/data/merge_4000/20200102012158_2aa30c5fbdac44e78b9a717369ee80ac_OCR_HAIMA_TextMixFormula_3.jpg \frac{N}{\varphi \varphi _{m}A_{0}}\leq f_{c}
+/root/xiaoya/pipline/data/merge_4000/D0001110.jpg 3k_{h}m_{v}C_{M}\int _{S_{0}}^{\infty}s^{2}f(s,t)ds\right]
+/root/xiaoya/pipline/data/merge_4000/20200102200426_3a97d37840d64d41ba022ca81ca18543_OCR_HAIMA_TextMixFormula_0.jpg \frac{5}{13}\div 6+ \frac{1}{6}\times \frac{8}{13}
+/root/xiaoya/pipline/data/merge_4000/D0001171.jpg \lim_{x \rightarrow 0}\frac{x- \sin x}{x^{3}}
+/root/xiaoya/pipline/data/merge_4000/D0003012.jpg \int_{0}^{x}f(t)dt= \frac{x}{2}f(x)+x
